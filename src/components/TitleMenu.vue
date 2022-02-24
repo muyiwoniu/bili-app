@@ -32,6 +32,7 @@ export default {
 
 <style scoped>
 .title-menu {
+  box-sizing: border-box;
   width: 100%;
   height: 45px;
   border: 1px solid #f1f1f1;

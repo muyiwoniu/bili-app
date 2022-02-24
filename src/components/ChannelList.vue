@@ -69,6 +69,7 @@ export default {
 
 <style scoped>
 .channel-list {
+  width: 100%;
   overflow: hidden;
   transition: 0.3s;
 }
